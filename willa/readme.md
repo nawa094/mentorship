@@ -1,11 +1,11 @@
 # Willa's ReadMe! 
-###### ✲꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏✲ 
-### Meeting 0 (Jun-17)
+✲꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏✲ 
+### Meeting 0 (17-Jun)
 
 - Went through the mentorship agreement
 - Chatted about goals, expectations and the road forward
 - Given the exercise to make this file
-###### TODO
+##### TODO
 - [x] Make git branch
 - [x] `readme.md` excercise
   - [x] Made `readme`
@@ -14,7 +14,7 @@
 - [ ] Complete Mentorship agreement
 
 ｡⋆｡˚☽˚｡
-## Meeting 1
+## Meeting 1 (01-Jul)
 
 - TBA
 
