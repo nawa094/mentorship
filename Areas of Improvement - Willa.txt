@@ -1,0 +1,15 @@
+This is a tricky question as I feel there are so many things I still need to learn as an aspiring dev.
+
+I guess the main areas I want to work on are:
+
+- GitHub and GitLab proficiency (this is a great start!). 
+	* I'm much less comfortable working with git hosting sites than I am working with terminal git.
+	* I want to move towards contributing towards FOSS I see online, pretty much all of which are on GitHub.
+
+- Asking for help and work-life balance.
+	* I often find myself just soldiering on and burning myself out because I'm trying so hard to do it on my own.
+	* On this note I find it really hard to dedicate work time for work and home time for leisure and personal admin.
+		^ When the coding muse hits, I just work until I'm burned out. 
+		^ I think this will heavily impact my long-term working ability.
+- Time management in general. 
+	* I have really bad ADHD so this couldn't come less naturally to me!
