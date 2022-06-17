@@ -11,7 +11,7 @@
   - [x] Made `readme`
   - [x] Learned more about `readme`s
   - [ ] Mastered `readme`s
-- [ ] Complete Mentorship agreement
+- [x] Complete Mentorship agreement
 
 ｡⋆｡˚☽˚｡
 ## Meeting 1 (01-Jul)
