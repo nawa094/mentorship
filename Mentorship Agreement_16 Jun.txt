@@ -13,14 +13,13 @@ How often will you meet/ communicate for official mentorship meetings? 
 Minimum is 1 hour every two weeks but you may choose to connect with your mentor more often.
 
 I think we should start with 1 hour a week as a “required” meeting time. We’ve started with Friday at 12pm but that can change. It would be useful to meet in that format to catch up with goals that we set as a group, like technical improvement. But I find that during second year there’s a few things to juggle especially at the beginning so lets try and fit it within everyone’s shedule.
-
-
+After chatting in the meeting, we concluded that we would meet once every two weeks. We will change this if necessary after testing it out for a bit.
 
 What channels of communication will you use for your meetings?
 Eg. Google Meet, Whats app, Zoom
 
 Google meeting is fine with me, camera’s are optional but I would recommend turning them on.
-
+Google meets for video communication and slack for day to day communication.
 
 
 Contact outside of official meetings
@@ -30,7 +29,7 @@ What platform of communication is suitable?
 
 This is a tricky one. Of course I do this because it’s something I would’ve appreciated when I was in your shoes; I also can’t afford to let my passion burn me out. So I think as you get to know me you’ll understand that I’m not always instantly available But I will always try my best to get back to you guys. My core hours at work are 9am to 3pm (So I would actually appreciate it if we could more our meeting time outside of this, personally I love a good 7am meeting lol).But out side of that I’m available 7am – 9am and then 3pm – 6pm. These are times I can say I’ll be checking Slack and actively responding, But you can always leave a message for me outside of those times and I’ll get back to you. And I think it’s important that we stick to Slack and Google Meets for communication.
 
-
+As mentees, we will keep contact with Nawa between 7am - 9am and 3pm -6pm. This contact will happen on slack
 
 
 Expectations and Roles:
@@ -46,6 +45,7 @@ After the first meeting, we might agree on things we could each do better to imp
 
 So be prepared to speak, and we’ll use that meeting to report back on what you’ve done in the 2 weeks to improve on the goals you’ll set in the first meeting. Each of you will be responsible for this, I would prefer that you create a system where each week one of you is responsible for finding a tool to send a meeting invite to everyone. Try and practice making it easier for yourself (Automation, hint hint nudge nudge).
 
+Mentees will be responsible for scheduling meetings, and preparation will generally be on a case to case basis.
 
 
 Recording meeting details and outcomes
@@ -56,7 +56,7 @@ We suggest this sits with the mentees but up to you all to decide.
 
 I don’t really have a preference but I would be a bit cautious because if we record meetings then some one is responsible for storing those  recordings. Unless someone says otherwise; I’d say we don’t record.
 
-
+Recordings will happen when appropriate (eg, when there is an important workshop) but we will otherwise try to take notes.
 
 
 
@@ -74,9 +74,7 @@ Ie. What will make for a valuable interaction for both parties?
 
 
 Mentees:
-
-
-
+Meetings will generally take a stand-up format, where we discuss tasks given at the previous meeting, and to receive tasks to complete for the next meeting. On occasion, meetings will be of a workshop format, where Nawa will give us some insight into a topic, like hackerrank tests for example.
 
 
 
@@ -99,7 +97,7 @@ Mentee Goals
 What are the top 3 things you’d like to achieve through this mentoring relationship?
 
 Discuss as a group and agree upon 3.
-
+We would like to gain some insight into how things run in industry, learn about how to work more professionally with tools such as git and github, and how to balance work and free time more effectively. Additionally, we want to learn more about code conceptualisation: how a project goes from idea to code.
 
 
 
@@ -124,7 +122,7 @@ We agree to uphold our commitments with reference to the above detail and will c
 
 Mentee Signatures:                         
 
-___________________________
+Willa Charlotte Lyle_______
 
 ___________________________
 
