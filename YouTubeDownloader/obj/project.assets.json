@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net6.0": []
+  },
+  "packageFolders": {
+    "/home/nawa/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/nawa/Documents/Mentorship/WeThinkCode/Github/MentorshipAgreement/mentorship/YouTubeDownloader/YouTubeDownloader.csproj",
+      "projectName": "YouTubeDownloader",
+      "projectPath": "/home/nawa/Documents/Mentorship/WeThinkCode/Github/MentorshipAgreement/mentorship/YouTubeDownloader/YouTubeDownloader.csproj",
+      "packagesPath": "/home/nawa/.nuget/packages/",
+      "outputPath": "/home/nawa/Documents/Mentorship/WeThinkCode/Github/MentorshipAgreement/mentorship/YouTubeDownloader/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/nawa/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
